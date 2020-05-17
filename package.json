@@ -1,0 +1,14 @@
+{
+  "name": "aroma-haven",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/dev-ari/honeyaromahaven.git",
+  "license": "MIT",
+  "homepage": "http://dev-ari.github.io/honeyaromahaven",
+  "scripts": {
+    "deploy": "gh-pages -d index.html"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
